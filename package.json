@@ -20,6 +20,7 @@
   "homepage": "https://github.com/UW-PCE-JSCRIPT-400-Summer-2020/Week-2#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongodb-memory-server": "^6.6.1",
     "mongoose": "^5.9.21"
   },
   "devDependencies": {

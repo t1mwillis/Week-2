@@ -88,7 +88,7 @@ describe("/calendars/:id/events", () => {
       expect(storedCalendar).toMatchObject({ 
         name: 'new name', 
         date: "2020-07-18T18:25:43-05:00",
-        _id: event1._id 
+        _id: event1._id
       });
     });
   });
